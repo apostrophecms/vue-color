@@ -1,3 +1,4 @@
+# Temporary fork that allows null values to be passed to color pickers (7/16/2021)
 # vue-color 
 
 [![npm](https://img.shields.io/npm/v/vue-color.svg)](https://www.npmjs.com/package/vue-color)
