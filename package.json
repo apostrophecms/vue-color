@@ -1,7 +1,7 @@
 {
-  "name": "vue-color",
-  "version": "2.8.1",
-  "description": "Color of Vue Components",
+  "name": "vue-color-nullable",
+  "version": "1.0.0",
+  "description": "Fork of vue-color that allows null values",
   "keywords": [
     "color",
     "vuejs"
@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xiaokaike/vue-color"
+    "url": "https://github.com/apostrophecms/vue-color"
   },
-  "author": "xiaokai <kexiaokai@gmail.com>",
+  "author": "stuart romanek <stuart@apostrophecms.com>",
   "dependencies": {
     "clamp": "^1.0.1",
     "lodash.throttle": "^4.0.0",
