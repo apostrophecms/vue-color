@@ -1,5 +1,5 @@
 {
-  "name": "vue-color-nullable",
+  "name": "@apostrophecms/vue-color",
   "version": "2.8.2",
   "description": "Fork of vue-color that allows null values",
   "keywords": [
