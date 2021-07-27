@@ -1,6 +1,6 @@
 {
   "name": "vue-color-nullable",
-  "version": "1.0.0",
+  "version": "2.8.1",
   "description": "Fork of vue-color that allows null values",
   "keywords": [
     "color",
